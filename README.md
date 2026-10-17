@@ -1,6 +1,6 @@
 # TaskTracker
 
-Sistema de gerenciamento de tarefas via linha de comando, escrito em Python. Projeto cumulativo do Bootcamp II (CEUB) — esta é a Fase 2 (Entrega Intermediária), que implementa em código a lógica planejada na Fase 1.
+Sistema de gerenciamento de tarefas via linha de comando, escrito em Python. Projeto cumulativo do Bootcamp II (CEUB) esta é a Fase 2 (Entrega Intermediária), que implementa em código a lógica planejada na Fase 1.
 
 ## O que o sistema faz
 
@@ -47,7 +47,7 @@ O arquivo `data/tarefas.json` é criado automaticamente no primeiro cadastro.
 | R3 | Data limite precisa existir no calendário e não pode ser anterior a hoje. |
 | R4 | ID numérico único, nunca reaproveitado após exclusão. |
 | R5 | Toda tarefa nasce Pendente; única transição é para Concluída. |
-| R6 | Concluir não remove a tarefa — fica registrada para histórico. |
+| R6 | Concluir não remove a tarefa fica registrada para histórico. |
 | R7 | Exclusão exige confirmação explícita do usuário. |
 | R8 | Toda alteração é gravada em disco antes de voltar ao menu. |
 | R9 | Entrada inválida nunca derruba o programa. |

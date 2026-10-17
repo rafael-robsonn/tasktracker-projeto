@@ -1,0 +1,2 @@
+# TaskTracker usa apenas a biblioteca padrão do Python (json, os, datetime).
+# Nenhuma dependência externa é necessária nesta fase.

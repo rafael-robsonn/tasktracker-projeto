@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# Dados locais (não versionar a base do usuário)
+data/
+
+# Ambiente
+.env
+
+# Editor
+.vscode/
+.idea/
